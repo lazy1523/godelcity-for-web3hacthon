@@ -8,7 +8,7 @@ Through GodelCity games and "resource pooling" protocols, P2E becomes sustainabl
 
 https://user-images.githubusercontent.com/19183420/159269754-46113122-26f0-4fab-baca-10fb5f361760.mp4
 
-#How to play
-1.Receive the task, go to each plot to discover the treasure map
-2.Dig up treasure maps and get resource pool rewards
-3.Go to commercial plots to interact with commercial actions: Swap, Cross-chain, rent, sell NFT, etc.
+# How to play
+1.Receive the task, go to each plot to discover the treasure map  
+2.Dig up treasure maps and get resource pool rewards  
+3.Go to commercial plots to interact with commercial actions: Swap, Cross-chain, rent, sell NFT, etc.  
